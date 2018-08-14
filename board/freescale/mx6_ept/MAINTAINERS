@@ -1,0 +1,8 @@
+MX6_EPT BOARD
+M:	Fishier Yu <yushengwei@e-planet.cn>
+S:	Maintained
+F:	board/freescale/mx6_ept/
+F:	include/configs/mx6_ept.h
+F:	configs/mx6dl_ept_defconfig
+F:	configs/mx6q_ept_defconfig
+F:	configs/mx6_ept_spl_defconfig
